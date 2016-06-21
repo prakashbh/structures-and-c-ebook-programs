@@ -1,0 +1,55 @@
+Structures - Examples
+=====================
+
+struct bunk_class
+{
+	int sem;
+	int no_of_students;
+ 	char reason[20];
+	char punishment[20];
+};
+
+
+struct person_details
+{
+	char name[30];
+	char DOB[20];
+	char sex[8];
+	int age;
+	float height;
+	float weight;
+	char unique_id[30];
+	char permanent_address[50];
+	char contact_id[30];
+};
+
+
+struct student
+{
+	char name[20];
+	int roll;
+	float exam1_marks;
+	float exam2_marks;
+	float exam3_marks;
+	float avg_marks;
+};
+
+
+struct iPod
+{
+	char type[20];
+	float cost;
+	float memory;
+	int id;
+};
+
+
+struct browser
+{
+	char name[20];      
+	char owner[20];
+  	float version;
+  	char add_ons[3][20];
+};
+
+
