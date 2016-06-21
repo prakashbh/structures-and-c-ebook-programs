@@ -8,3 +8,4 @@ The following can be found in the repository:
 3. MCQ solutions
 
 The Book can be downloaded in the following link:
+https://www.smashwords.com/books/view/644937
